@@ -1,0 +1,47 @@
+body {
+	background-color: #fbebd4;
+	color: #725529 ;
+	font-family: "Tahoma", sans-serif;
+}
+
+h1 {
+	font-size: 43px;
+	margin: auto;
+	text-align: center;
+	text-shadow: 2px 2px black;
+}
+
+.login {
+	background-color: #d0b998;
+	border: dashed #ad926b;
+	width: 36%;
+	margin: auto;
+	text-align: center;
+	padding: 13px;
+	font-size: 19px;
+	
+}
+
+img {
+	float: left;
+	width: 46%;
+	padding: 3px;
+	border-radius: 36px;
+}
+
+span {
+	font-size: 34px;
+     text-shadow: 2px 2px black;
+}
+
+
+#button {
+	width: 39%;
+	background-color: #8a704a;
+}
+
+p {
+	color: black;
+	font-size: 39%;
+	font-style: italic;
+}
